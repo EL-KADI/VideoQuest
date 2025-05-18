@@ -10,7 +10,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "VideoQuest",
   description: "Explore, search, and track educational and entertainment videos",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
